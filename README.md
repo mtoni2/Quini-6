@@ -2,6 +2,12 @@
 
 Software profesional diseñado para el análisis de datos, cálculo dinámico de frecuencias y estimación de patrones probabilísticos en tiempo real para el juego Quini 6 de Argentina. Ideal tanto para agencias de lotería como para apostadores particulares que buscan profesionalizar sus jugadas.
 
+---
+
+> 💡 **¿También jugás al Loto Plus?** Maximizá tus chances y descargá el *Analizador Avanzado de Loto Plus* desde su repositorio oficial: [👉 Ir al Analizador de Loto Plus](https://github.com/mtoni2/Loto-Plus)
+
+---
+
 ## 📊 Vista Previa de la Interfaz
 ![Demo del Software](demo.png)
 
