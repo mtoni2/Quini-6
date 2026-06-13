@@ -15,7 +15,21 @@ Software profesional diseñado para el análisis de datos, cálculo dinámico de
 * **Cálculo de Frecuencias en Caliente:** Actualización matemática instantánea de las Bolas (00-45) conforme se interactúa con la grilla y las diferentes pestañas.
 * **Persistencia Segura de Datos:** El historial de sorteos y el estado de la licencia se resguardan de forma automatizada en la carpeta local del sistema (`AppData`), garantizando que no se pierdan datos en futuras actualizaciones o reinstalaciones.
 * **Predicción Avanzada:** 5 algoritmos de cálculo probabilístico independientes para armar tus jugadas estratégicas basados en el comportamiento histórico real.
-* **🖥️ Compatibilidad de Sistema:** Optimizado y totalmente compatible para ejecutarse en sistemas operativos desde **Windows 7, 8, 10, 11 y versiones superiores que existan**, tanto en arquitecturas de 32 como de 64 bits.
+
+---
+
+## 🖥️ Requisitos del Sistema y Compatibilidad (Windows 7)
+
+Este software ha sido optimizado para funcionar en sistemas modernos (**Windows 10 y Windows 11** de 64 bits) sin necesidad de configuraciones adicionales.
+
+### ⚠️ Nota importante para usuarios de Windows 7:
+El programa incluye componentes modernos basados en **Python 3.8.10**, por lo que si utilizás **Windows 7 (64 bits)**, es indispensable que tu sistema operativo cuente con las actualizaciones oficiales de Microsoft al día. 
+
+Para garantizar el correcto arranque de la aplicación, verificá cumplir con lo siguiente:
+1. **Service Pack 1 (SP1):** Debe estar instalado obligatoriamente.
+2. **Actualizaciones del Sistema:** El sistema operativo no debe estar "congelado". Se recomienda tener instalados los parches críticos posteriores al SP1 (como el paquete acumulativo de actualizaciones de Microsoft o el parche oficial **KB3063858** / **KB2533623**).
+
+> 💡 **Nota de soporte:** El instalador oficial de **AMT Soft** ya incluye de forma automática las librerías de compatibilidad necesarias (`api-ms-win-core-path-l1-1-0.dll`). Si aun así el programa no inicia, se debe estrictamente a la falta de parches oficiales y actualizaciones pendientes en el Windows 7 del usuario.
 
 ---
 
